@@ -23,7 +23,7 @@ description: >-                        # used by seo meta and the atom feed
    Collection of thought provoking neurology cases encountered during my neurology residency. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ehsantadayon.github.io'
+url: 'https://neurocases.github.io'
 
 github:
   username: ehsantadayon             # change to your github username
