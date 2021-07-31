@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Neurocases                         # the main title
+title: NeuroCases                         # the main title
 
 tagline: Thought Provoking Neurology Cases   # it will display as the sub-title
 
@@ -25,8 +25,8 @@ description: >-                        # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://neurocases.github.io'
 
-github:
-  username: ehsantadayon             # change to your github username
+#github:
+#  username: ehsantadayon             # change to your github username
 
 twitter:
   username: ehsantadayon          # change to your twitter username
