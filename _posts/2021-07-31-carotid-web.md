@@ -21,7 +21,7 @@ Vascular surgery was consulted and patient underwent endarterectomy.
 
 
 ![sagital view](/assets/images/carotid_web_1/img_1.png)
-Figure 1. 
+Figure 1. CT Head and DWI showing ischemic infarct in the right MCA territory. 
 ![axial view](/assets/images/carotid_web_1/img_2.png)
-Figure 2. 
+Figure 2. Carotid web best visualized in the sagital view as a finger like projection into the lumen.
 
