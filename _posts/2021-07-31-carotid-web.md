@@ -5,15 +5,15 @@ date: 2021-07-31
 categories: [stroke]
 tags: [stroke]
 ---
-<b>HPI:</b> A 65 year old female with acute onset slurred speech and left hand clumsiness. The night before presentation, patient went to bed and at that time she was feeling completely at baseline. Patient started to feel a little "off" but unable to describe exactly how. Around midnight, she developed a headache to her nasal bridge between her eyes. Patient decided to get up to take some
-tylenol for her headache and when she got up from the bed, she felt like her coordination was off. When she got to the
-bathroom and tried to turn the faucet on with her left hand, she felt that her han was clumsy. Patient reports when she tried to take her
-tylenol, she noticed that water was coming out of the left side of her mouth but she was able to swallow the pills without any
-difficulty. Denies any numbness/tingling to either side of her body. Patient then went back to bed and then woke up the next
-morning and her headache was gone. She still felt like she had some hand incoordination. Was able to drink her coffee without
-any issues. She called her cousin and during that time patient felt that her speech was slurred and this was the first time
-that she noticed it as she lives alone. She denies having difficulty with word finding. 
+A 65 year old female with no significant past medical history started to feel "off" when she went to her bed to sleep. She started to have headache and got up to take tylenol. While taking the pill, she felt the water was coming out of her left mouth. She went to take a shower, and she noticed her left hand was clumsy. She went back to sleep and in the morning, her headache was gone. She called her cousin and noticed that her speech was slurred. She called 911 and came to the ED. 
 
-![sagital view](/assets/images/carotid_web_1/sag_1.png)
-![axia view](/assets/images/carotid_web_1/axial_1.png)
+In the ED, patient's vital sign was stable. Stroke code was activated. Exam was notable for left facial droop, dysarthria, left upper extremitiy weakness.
+
+CT Head notable for hypodensity in the right inferior frontal gyrus and insular cortex (Fig 1.A). DWI MRI showed areas of restricted diffusion with corresponding dark areas on ADC map. Patient was evaluated for possible causes of stroke, but CTA was reported negative for any vascular disease. TTE was negative for any structural heart disease. On repeat reading of CTA, a carotid web was seen in the right ICA. This finding changed patient's management entirely. Patient's with carotid web are predisposed to embolic stroke from the thrombus formed on the carotid web. Recent studies have shown that patients with carotid web have higher risk of stroke in the future compared to patients who recieved intervention (carotid endarterectomy or stent). 
+
+
+![sagital view](/assets/images/carotid_web_1/img_1.png)
+Figure 1. 
+![axial view](/assets/images/carotid_web_1/img_2.png)
+Figure 2. 
 
