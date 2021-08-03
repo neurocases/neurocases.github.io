@@ -9,9 +9,15 @@ A 65 year old female with no significant past medical history started to feel "o
 
 In the ED, patient's vital sign was stable. Stroke code was activated. Exam was notable for left facial droop, dysarthria, left upper extremitiy weakness.
 
-CT Head notable for hypodensity in the right inferior frontal gyrus and insular cortex (Fig 1.A). DWI MRI showed areas of restricted diffusion with corresponding dark areas on ADC map. Patient was evaluated for possible causes of stroke, but CTA was reported negative for any vascular disease. TTE was negative for any structural heart disease. On repeat reading of CTA, a carotid web was seen in the right ICA. This finding changed patient's management entirely. Patients with carotid web are predisposed to embolic stroke from the thrombus formed on the carotid web. Recent studies have shown that patients with carotid web managed medically have higher risk of stroke recurrence compared to patients who recieved intervention (carotid endarterectomy or stent). 
+CT Head notable for hypodensity in the right inferior frontal gyrus and insular cortex (Figure 1). DWI MRI showed areas of restricted diffusion with corresponding dark areas on ADC map. Patient was evaluated for possible causes of stroke, but CTA was reported negative for any vascular disease. TTE was negative for any structural heart disease. On closer look at the CTA, a carotid web was seen in the right ICA (Figure 2). This finding changed patient's management entirely. Patients with carotid web are predisposed to embolic stroke from the thrombus formed on the carotid web. Recent studies have shown that patients with carotid web who were managed medically have higher risk of stroke recurrence compared to patients who recieved intervention (carotid endarterectomy or stent). 
 
-Vascular surgery consulted and patient underwent endarterectomy. 
+Vascular surgery was consulted and patient underwent endarterectomy. 
+
+<b>Take home message:</b><br> 
+- Always check sagital slices of the neck CTA as carotid webs are more easily identified on the sagital slices
+- Patients with carotid web have high risk of stroke recurrence 
+- Patients with carotid web will benefit more from intervention (endarterectomy/stent) compared to medical management. 
+
 
 
 ![sagital view](/assets/images/carotid_web_1/img_1.png)
