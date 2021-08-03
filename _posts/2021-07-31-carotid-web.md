@@ -2,8 +2,8 @@
 title: Case - A 65 year old female with acute onset slurred speech and left hand clumsiness
 author: Ehsan Tadayon, MD
 date: 2021-07-31
-categories: [stroke]
-tags: [stroke]
+categories: [stroke, case]
+tags: [stroke, case]
 ---
 A 65 year old female with no significant past medical history started to feel "off" when she went to her bed to sleep. She started to have headache and got up to take tylenol. While taking the pill, she felt the water was coming out of her left mouth. She went to take a shower, and she noticed her left hand was clumsy. She went back to sleep and in the morning, her headache was gone. She called her cousin and noticed that her speech was slurred. She called 911 and came to the ED. 
 
